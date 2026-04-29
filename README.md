@@ -8,8 +8,11 @@
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20Strategy%20%7C%20Product%20%7C%20PM%20roles-6366f1?style=flat-square)](#)
 
-### [→ Full Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
+### [→ Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
 *Skills · Archetypes · Industries · Timeline · Strategic Synergies*
+
+### [→ 50-week portfolio build · roadmap](https://archishman-b.github.io/portfolio-roadmap/)
+*3 of 22 projects live · updating weekly*
 
 </div>
 
@@ -17,16 +20,16 @@
 
 ## About
 
-I'm a strategy and technology consultant with 12 years across **automotive OEMs**, **B2B tech**, and **Tier-1 consulting firms** (Accenture, Monitor Deloitte). I've owned a $80M brand P&L, rationalized a 10,000-app enterprise portfolio for a global automotive OEM, led a $50M pricing transformation for one of the US's largest auto parts retailers, and spent the last year driving agentic AI adoption as part of Accenture's Reinventor Strategists team.
+I'm a Strategy and Technology Consulting Manager with 12 years across **automotive OEMs**, **B2B tech**, and **Tier-1 consulting firms** (Accenture, Monitor Deloitte). I've owned a $80M brand P&L, rationalized a 10,000-app enterprise portfolio for a global automotive OEM, led a $50M pricing transformation for one of the US's largest auto parts retailers, and spent the last year driving agentic AI adoption as part of Accenture's Reinventor Strategists team.
 
-This GitHub is my **build-in-public journey** — translating 12 years of strategy consulting IP, industry domain depth, and growing technical fluency into open-source tools, AI-powered frameworks, and working prototypes. The goal: demonstrate that the future of strategy work is *executable*, not just advisory.
+This GitHub is my **build-in-public journey** — translating 12 years of strategy consulting IP, industry domain depth, and growing technical fluency into open-source tools, AI-powered frameworks, and working prototypes.
 
 ---
 
 ## Background at a Glance
 
 	12 yrs  ──────────────────────────────────────────────────────────────────►
-	        │ Tata Motors  │  MBA (SIBM)  │   Mahindra GMC (3 roles)   │ Monitor Deloitte  │ Accenture │
+	        │ Tata Motors  │  MBA (SIBM)  │  Mahindra GMC (3 roles)   │ Monitor Deloitte  │ Accenture │
 	        │  Production  │  Marketing   │  Analytics · Brand · Channel│  6 engagements   │ EA CoE +  │
 	        │  Mgmt + PMO  │  Spec.       │  $80M P&L · 2M customers   │  XaaS · M&A · GTM│ Reinventor│
 
@@ -38,22 +41,20 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 ---
 
-## What I Build Here
+## Live Projects
 
-| Domain                            | What I'm creating                                                                               |
-| --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **AI Strategy & Agentic Systems** | Multi-agent research systems, AI governance frameworks, enterprise AI readiness tools           |
-| **Strategy Frameworks as Code**   | GTM toolkits, pricing analyzers, EA rationalization engines — consulting IP made executable     |
-| **Product & System Design**       | PRD generators, system design docs, telematics platform architectures                           |
-| **Automotive × AI**               | SDV strategy playbooks, connected-vehicle intelligence tools, GCC operating models              |
-| **Domain IP**                     | CLTV engines, customer segmentation toolkits, FinOps dashboards — from real-world at-scale work |
+### [DataBridge](https://archishman-b.github.io/databridge/databridge.html)
+No-code data workbench for consultants and analysts. 40+ operations — joins, aggregations, time intelligence, segmentation — in a single browser file. No installation, no server, works offline. Built because I needed it on a pricing engagement where I had one consultant, no SQL access, and no Alteryx licence.
+
+### [Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
+Full-spectrum career map across 5 views: skills (70+ mapped across 5 confidence buckets), career archetypes, industry coverage, experience timeline, and strategic synergies. Built as a data-driven system, not a slide deck — the JSON is the source of truth, the HTML reads from it.
 
 ---
 
 ## Current Focus (2025–2026)
 
 - **Pivoting into:** AI Strategy & Advisory · Product Management · System Design roles at tech-forward companies
-- **Building toward:** Senior AI PM / AI Strategy Lead / Product Strategy Director tracks
+- **Building toward:** Senior AI PM · AI Strategy Lead · Product Strategy Director
 - **Learning publicly:** Python · LangChain · LangGraph · RAG · System design · Agentic architectures
 - **Certifications in progress:** FinOps Practitioner · GCP Professional Cloud Architect
 
@@ -74,29 +75,14 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 ---
 
-## Select Project Highlights
-
-### 🔷 Strategy × AI
-- **[DataBridge](https://archishman-b.github.io/databridge/databridge.html)** 
-  — No-code data workbench · 40+ operations · built for consultants · 
-  runs entirely in the browser
-
-### 🔶 Domain IP (Automotive & Industry)
-- **[WIP](#)** 
-
-### 🔹 Frameworks & Tools
-- **[WIP](#)** 
-
----
-
 ## Let's Connect
 
 If you're working on AI strategy, product management in the enterprise/automotive/tech space, or building tools for strategy practitioners — I'd love to talk.
 
-**DM me on [LinkedIn](https://www.linkedin.com/in/archishmanb/)** · Open to: advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles at companies building at scale.
+**DM me on [LinkedIn](https://linkedin.com/in/archishmanb)** · Open to: advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles at companies building at scale.
 
 ---
 
 <div align="center">
-<sub>Building in public · 50-week commit streak in progress · All frameworks based on real engagements, anonymized · April 2026 onwards</sub>
+<sub>Building in public · 50-week commit streak · All frameworks based on real engagements, anonymized · April 2026 onwards</sub>
 </div>
