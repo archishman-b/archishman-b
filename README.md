@@ -29,6 +29,7 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 ## Background at a Glance
 
 12 yrs  ───────────────────────────────────────────────────►
+
 	 │ Tata Motors       │  MBA (SIBM)  │  Mahindra GMC (3 roles)     │ Monitor Deloitte  │ Accenture Strategy │
 	 │ Manufacturing     │  Marketing   │  Analytics · Brand · Channel│ Customer Strategy │ Tech Strategy      │
      │ VP's office + PMO │  Operations  │  $80M P&L · 2M customers    │  XaaS · M&A · GTM │ EA · Agentic AI    │
