@@ -77,14 +77,12 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 ## Select Project Highlights
 
 ### 🔷 Strategy × AI
-- **[EA Rationalization Engine](#)** — Python tool encoding my OEM methodology: 10K-app scoring, duplication detection, TCO heatmaps
-- **[Multi-Agent Strategy Research System](#)** — LangGraph-orchestrated agents for market research, competitive analysis, synthesis
-- **[AI Readiness Assessment Tool](#)** — Enterprise AI maturity scorecard across 6 dimensions, LLM-augmented
+- **[DataBridge](https://archishman-b.github.io/databridge/databridge.html)** 
+  — No-code data workbench · 40+ operations · built for consultants · 
+  runs entirely in the browser
 
 ### 🔶 Domain IP (Automotive & Industry)
-- **[Automotive AI Opportunity Index](#)** — Scoring framework for AI opportunity across SDV, connected, EV, MaaS sub-segments
-- **[SDV Strategy Playbook](#)** — Open-source commercial strategy guide for the software-defined vehicle transition
-- **[CLTV & Segmentation Toolkit](#)** — Open-source Python implementation of enterprise-grade customer lifetime value modelling
+- **[WIP](#)** 
 
 ### 🔹 Frameworks & Tools
 - **[GTM Strategy Toolkit](#)** — Reusable Python framework for go-to-market design, channel scoring, partner program design
