@@ -5,8 +5,11 @@
 **Strategy × AI × Product — bridging enterprise depth with builder fluency**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archishmanb)
-[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-555?style=flat-square)](#)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20Strategy%20%7C%20Product%20%7C%20PM%20roles-6366f1?style=flat-square)](#)
+
+### [→ Full Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
+*Skills · Archetypes · Industries · Timeline · Strategic Synergies*
 
 </div>
 
@@ -20,28 +23,12 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 ---
 
-## What I Build Here
-
-| Domain | What I'm creating |
-|---|---|
-| **AI Strategy & Agentic Systems** | Multi-agent research systems, AI governance frameworks, enterprise AI readiness tools |
-| **Strategy Frameworks as Code** | GTM toolkits, pricing analyzers, EA rationalization engines — consulting IP made executable |
-| **Product & System Design** | PRD generators, system design docs, telematics platform architectures |
-| **Automotive × AI** | SDV strategy playbooks, connected-vehicle intelligence tools, GCC operating models |
-| **Domain IP** | CLTV engines, customer segmentation toolkits, FinOps dashboards — from real-world at-scale work |
-
----
-
 ## Background at a Glance
 
-```
-12 yrs  ──────────────────────────────────────────────────────────────────►
-        │ Tata Motors  │  MBA (SIBM)  │   Mahindra GMC (3 roles)   │ Monitor Deloitte  │ Accenture │
-        │  Production  │  Marketing   │  Analytics · Brand · Channel│  6 engagements   │ EA CoE +  │
-        │  Mgmt + PMO  │  Spec.       │  $80M P&L · 2M customers   │  XaaS · M&A · GTM│ Reinventor│
-```
-
-**Industries I know deeply:** Automotive · B2B Technology · Retail & Distribution · Media & Entertainment · Farm Equipment · Manufacturing
+	12 yrs  ──────────────────────────────────────────────────────────────────►
+	        │ Tata Motors  │  MBA (SIBM)  │   Mahindra GMC (3 roles)   │ Monitor Deloitte  │ Accenture │
+	        │  Production  │  Marketing   │  Analytics · Brand · Channel│  6 engagements   │ EA CoE +  │
+	        │  Mgmt + PMO  │  Spec.       │  $80M P&L · 2M customers   │  XaaS · M&A · GTM│ Reinventor│
 
 **My uncommon combination:**
 - Built CLTV models on 2M+ customers **and** can present the so-what to a CMO
@@ -51,11 +38,15 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 ---
 
-## Featured Repositories
+## What I Build Here
 
-> *Building out over 50 weeks. Pinned repos are the most complete and signal-dense.*
-
-<!-- Pinned repos will appear here automatically -->
+| Domain                            | What I'm creating                                                                               |
+| --------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **AI Strategy & Agentic Systems** | Multi-agent research systems, AI governance frameworks, enterprise AI readiness tools           |
+| **Strategy Frameworks as Code**   | GTM toolkits, pricing analyzers, EA rationalization engines — consulting IP made executable     |
+| **Product & System Design**       | PRD generators, system design docs, telematics platform architectures                           |
+| **Automotive × AI**               | SDV strategy playbooks, connected-vehicle intelligence tools, GCC operating models              |
+| **Domain IP**                     | CLTV engines, customer segmentation toolkits, FinOps dashboards — from real-world at-scale work |
 
 ---
 
@@ -70,18 +61,16 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 ## Skill Topology
 
-```
-PROVEN (12 yrs evidence)           BUILDING NOW (hands-on)
-────────────────────────           ───────────────────────
-Go-to-Market Strategy              Python · LangChain · LangGraph
-Revenue Growth Management          RAG · Vector DBs · Agents
-Enterprise Architecture            System Design (code + docs)
-Customer Analytics (CLTV/SQL)      FinOps · Cloud Economics
-Post-M&A Operating Models          AI Governance Frameworks
-Pricing Transformation             Prompt Engineering (strategy)
-Brand & Product P&L                Streamlit · GitHub Pages
-GenAI Adoption Strategy ←──────────────── actively bridging ───────────────►
-```
+	PROVEN (12 yrs evidence)           BUILDING NOW (hands-on)
+	────────────────────────           ───────────────────────
+	Go-to-Market Strategy              Python · LangChain · LangGraph
+	Revenue Growth Management          RAG · Vector DBs · Agents
+	Enterprise Architecture            System Design (code + docs)
+	Customer Analytics (CLTV/SQL)      FinOps · Cloud Economics
+	Post-M&A Operating Models          AI Governance Frameworks
+	Pricing Transformation             Prompt Engineering (strategy)
+	Brand & Product P&L                Streamlit · GitHub Pages
+	GenAI Adoption Strategy ←──────────────── actively bridging ───────────────►
 
 ---
 
@@ -101,17 +90,6 @@ GenAI Adoption Strategy ←──────────────── acti
 - **[GTM Strategy Toolkit](#)** — Reusable Python framework for go-to-market design, channel scoring, partner program design
 - **[Strategy IQ Toolkit](#)** — Strategy frameworks as code: Porter's, BCG, Ansoff, Blue Ocean — all LLM-augmented
 - **[Prompt Engineering for Strategy](#)** — Production-grade system prompts for strategy consulting use cases
-
----
-
-## Writing & Thought Leadership
-
-I write occasionally on the intersection of strategy consulting, AI, and product — particularly on:
-- What enterprise AI strategy actually looks like from the inside
-- How the consulting delivery model is being rebuilt around agentic AI
-- Commercial strategy for the automotive AI era (SDV, connected mobility, EV)
-
-> *Links to come as I build the Substack / Medium trail.*
 
 ---
 
