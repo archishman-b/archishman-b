@@ -56,7 +56,6 @@ Full-spectrum career map across 5 views: skills (70+ mapped across 5 confidence 
 - **Pivoting into:** AI Strategy & Advisory · Product Management · System Design roles at tech-forward companies
 - **Building toward:** Senior AI PM · AI Strategy Lead · Product Strategy Director
 - **Learning publicly:** Python · LangChain · LangGraph · RAG · System design · Agentic architectures
-- **Certifications in progress:** FinOps Practitioner · GCP Professional Cloud Architect
 
 ---
 
