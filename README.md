@@ -5,7 +5,7 @@
 **Strategy × AI × Product — bridging enterprise depth with builder fluency**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archishmanb)
-[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-555?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20Strategy%20%7C%20Product%20%7C%20PM%20roles-6366f1?style=flat-square)](#)
 
 ### [→ Full Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
