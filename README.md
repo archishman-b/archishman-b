@@ -85,9 +85,7 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 - **[WIP](#)** 
 
 ### 🔹 Frameworks & Tools
-- **[GTM Strategy Toolkit](#)** — Reusable Python framework for go-to-market design, channel scoring, partner program design
-- **[Strategy IQ Toolkit](#)** — Strategy frameworks as code: Porter's, BCG, Ansoff, Blue Ocean — all LLM-augmented
-- **[Prompt Engineering for Strategy](#)** — Production-grade system prompts for strategy consulting use cases
+- **[WIP](#)** 
 
 ---
 
@@ -95,7 +93,7 @@ This GitHub is my **build-in-public journey** — translating 12 years of strate
 
 If you're working on AI strategy, product management in the enterprise/automotive/tech space, or building tools for strategy practitioners — I'd love to talk.
 
-**DM me on [LinkedIn](#)** · Open to: advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles at companies building at scale.
+**DM me on [LinkedIn](https://www.linkedin.com/in/archishmanb/)** · Open to: advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles at companies building at scale.
 
 ---
 
