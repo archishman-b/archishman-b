@@ -1,88 +1,110 @@
-<div align="center">
-
 # Archishman Bandyopadhyay
 
 **Strategy × AI × Product — bridging enterprise depth with builder fluency**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archishmanb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-archishman--b.github.io-B5621E?style=flat-square)](https://archishman-b.github.io/)
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20Strategy%20%7C%20Product%20%7C%20PM%20roles-6366f1?style=flat-square)](#)
 
-### [→ Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
-*Skills · Archetypes · Industries · Timeline · Strategic Synergies*
-
-### [→ 50-week portfolio build · roadmap](https://archishman-b.github.io/portfolio-roadmap/)
-*3 of 22 projects live · updating weekly*
-
-</div>
+**[→ Portfolio](https://archishman-b.github.io/)** · **[→ Career Map](https://archishman-b.github.io/career-intelligence-map/)** · **[→ Build Log](https://archishman-b.github.io/master-build-log.html)**
 
 ---
 
 ## About
 
-I'm a Strategy and Technology Consulting Manager with 12 years across **automotive OEMs**, **B2B tech**, and **Tier-1 consulting firms** (Accenture, Monitor Deloitte). I've owned a $80M brand P&L, rationalized a 10,000-app enterprise portfolio for a global automotive OEM, led a $50M pricing transformation for one of the US's largest auto parts retailers, and spent the last year driving agentic AI adoption as part of Accenture's Reinventor Strategists team.
+Strategy and Technology Consulting Manager with 12 years across **automotive OEMs**, **B2B tech**, and **Tier-1 consulting** (Accenture, Monitor Deloitte). I've owned a $80M brand P&L, rationalised a 10,000-app enterprise portfolio for a global automotive OEM, led a $50M pricing transformation for one of the US's largest auto parts retailers, and spent the last year driving agentic AI adoption across Accenture's Strategy CoEs.
 
-This GitHub is my **build-in-public journey** — translating 12 years of strategy consulting IP, industry domain depth, and growing technical fluency into open-source tools, AI-powered frameworks, and working prototypes.
-
----
-
-## Background at a Glance
-
-12 yrs  ─────►
-
-	 │ Tata Motors       │  MBA (SIBM)  │  Mahindra GMC (3 roles)     │ Monitor Deloitte  │ Accenture Strategy │
-	 │ Manufacturing     │  Marketing   │  Analytics · Brand · Channel│ Customer Strategy │ Tech Strategy      │
-     │ VP's office + PMO │  Operations  │  $80M P&L · 2M customers    │  XaaS · M&A · GTM │ EA · Agentic AI    │
-
-**My uncommon combination:**
-- Built CLTV models on 2M+ customers **and** can present the so-what to a CMO
-- Rationalized 10K-app enterprise portfolios **and** understand the commercial value story behind every cut
-- Designed post-M&A commercial architectures (HP/Polycom $3B) **and** led the change programme
-- Working with AI agents daily at Accenture **and** building the tools to prove it
+This GitHub is my **build-in-public journey** — translating 12 years of strategy consulting IP into open-source, browser-native tools that practitioners can use without code, licences, or infrastructure.
 
 ---
 
-## Live Projects
+## Background
 
-### [DataBridge](https://archishman-b.github.io/databridge/databridge.html)
-No-code data workbench for consultants and analysts. 40+ operations — joins, aggregations, time intelligence, segmentation — in a single browser file. No installation, no server, works offline. Built because I needed it on a pricing engagement where I had one consultant, no SQL access, and no Alteryx licence.
+```
+12 yrs ────────────────────────────────────────────────────────────────►
+
+ Tata Motors  │ MBA SIBM │ Mahindra GMC (3 roles)      │ Monitor Deloitte │ Accenture Strategy
+ Manufacturing│ Marketing│ Analytics · Brand · Channel │ Customer Strategy│ Tech Strategy
+ PMO · VPO    │ Ops      │ $80M P&L · 2M customers     │ XaaS · M&A · GTM │ EA · Agentic AI
+```
+
+---
+
+## Live Tools
+
+Each tool ships as a 3-piece set: **Tool · Theory companion · Build journal**
+
+---
+
+### [Pricing Analyser](https://archishman-b.github.io/pricing-analyser/) — v1.0
+
+8-module commercial analytics workbench. Price waterfall, band analysis, discount governance, margin decomposition, EVE model, SaaS pricing studio, competitive intelligence, behavioural lab. Zero-server, browser-native.
+
+[↗ Launch](https://archishman-b.github.io/pricing-analyser/) · [↗ Theory](https://archishman-b.github.io/pricing-analyser/pricing-theory-companion.html) · [↗ PM Journal](https://archishman-b.github.io/pricing-analyser/pricing-analyser-build-journal.html)
+
+---
+
+### [DataBridge](https://archishman-b.github.io/databridge/databridge.html) — v1.1
+
+No-code data workbench. 40+ operations: joins, aggregations, time intelligence, segmentation. Visual form builders for everything — no syntax to remember. SQL equivalent shown for every operation. Data quality scoring, pricing schema mapper, and sessionStorage handoff to Pricing Analyser.
+
+[↗ Launch](https://archishman-b.github.io/databridge/databridge.html) · [↗ Theory](https://archishman-b.github.io/databridge/databridge-theory-companion.html)
+
+---
+
+### [ML Strategy Playbook](https://archishman-b.github.io/ml-for-strategy/ML_Strategy_Playbook.html)
+
+19-model field guide for strategy and PM contexts — analyst workflows, business interpretation, decision frameworks. Includes an 18-chapter statistics companion.
+
+[↗ Playbook](https://archishman-b.github.io/ml-for-strategy/ML_Strategy_Playbook.html) · [↗ Stats companion](https://archishman-b.github.io/ml-for-strategy/stats/index.html)
+
+---
 
 ### [Career Intelligence Map](https://archishman-b.github.io/career-intelligence-map/)
-Full-spectrum career map across 5 views: skills (70+ mapped across 5 confidence buckets), career archetypes, industry coverage, experience timeline, and strategic synergies. Built as a data-driven system, not a slide deck — the JSON is the source of truth, the HTML reads from it.
+
+Interactive career analysis: 70+ skills mapped, career archetypes, industry coverage, experience timeline, strategic synergies.
+
+[↗ Explore](https://archishman-b.github.io/career-intelligence-map/)
 
 ---
 
-## Current Focus (2025–2026)
+## In the Pipeline
 
-- **Pivoting into:** AI Strategy & Advisory · Product Management · System Design roles at tech-forward companies
-- **Building toward:** Senior AI PM · AI Strategy Lead · Product Strategy Director
-- **Learning publicly:** Python · LangChain · LangGraph · RAG · System design · Agentic architectures
+| Tool | Status | ETA |
+|------|--------|-----|
+| DataBridge build journal | In progress | Q2 2026 |
+| GTM Strategy Framework | Planning | Q3 2026 |
+| Pricing Analyser v2 (DataBridge integration) | Backlog | Q3 2026 |
+| EA Rationalisation Toolkit | Planning | Q4 2026 |
+
+Full changelog, versioning, dependency map: [Master Build Log →](https://archishman-b.github.io/master-build-log.html)
 
 ---
 
 ## Skill Topology
 
-	PROVEN (12 yrs evidence)           BUILDING NOW (hands-on)
-	────────────────────────           ───────────────────────
-	Go-to-Market Strategy              Python · LangChain · LangGraph
-	Revenue Growth Management          RAG · Vector DBs · Agents
-	Enterprise Architecture            System Design (code + docs)
-	Customer Analytics (CLTV/SQL)      FinOps · Cloud Economics
-	Post-M&A Operating Models          AI Governance Frameworks
-	Pricing Transformation             Prompt Engineering (strategy)
-	Brand & Product P&L                Streamlit · GitHub Pages
-	GenAI Adoption Strategy ←──────────────── actively bridging ───────────────►
+```
+PROVEN (12 yrs)                    BUILDING NOW
+────────────────                   ─────────────
+Go-to-Market Strategy              Python · LangChain · LangGraph
+Revenue Growth Management          RAG · Vector DBs · Agents
+Enterprise Architecture            System Design
+Customer Analytics (CLTV/SQL)      FinOps · Cloud Economics
+Post-M&A Operating Models          AI Governance
+Pricing Transformation             Prompt Engineering
+Brand & Product P&L
+GenAI Adoption Strategy ←──── actively bridging ────►
+```
 
 ---
 
-## Let's Connect
+## Current Focus
 
-If you're working on AI strategy, product management in the enterprise/automotive/tech space, or building tools for strategy practitioners — I'd love to talk.
+**Pivoting into:** AI Strategy & Advisory · Product Management · Senior PM roles at tech-forward companies
 
-**DM me on [LinkedIn](https://linkedin.com/in/archishmanb)** · Open to: advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles at companies building at scale.
+**DM on [LinkedIn](https://linkedin.com/in/archishmanb)** — open to advisory conversations, collaboration, and senior AI PM / product strategy / AI advisory roles.
 
 ---
 
-<div align="center">
-<sub>Building in public · 50-week commit streak · All frameworks based on real engagements, anonymized · April 2026 onwards</sub>
-</div>
+*Building in public · All frameworks based on real engagements, anonymised · Zero-server, browser-native, open-source · April 2026 onwards*
