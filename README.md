@@ -7,7 +7,7 @@
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
 [![Open to](https://img.shields.io/badge/Open%20to-AI%20Strategy%20%7C%20Product%20%7C%20PM%20roles-6366f1?style=flat-square)](#)
 
-**[→ Portfolio](https://archishman-b.github.io/** · **[→ Career Map](https://archishman-b.github.io/career-intelligence-map/)** · **[→ Build Log](https://archishman-b.github.io/master-build-log.html)**
+**[→ Career Map](https://archishman-b.github.io/career-intelligence-map/)** · **[→ Build Log](https://archishman-b.github.io/master-build-log.html)**
 
 ---
 
